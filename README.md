@@ -1,6 +1,7 @@
 # Project Gutenberg Crawling
 
 Crawl project gutenberg books  
+Set how many books you want to crawl in line 59   
 Use regex to get chinese content  
 Save a book as a txt
 
